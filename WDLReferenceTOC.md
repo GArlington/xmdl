@@ -1,0 +1,5 @@
+  * [Getting Started Guide](WDLGettingStarted.md)
+  * [WDL Reference Guide](WDLReference.md)
+    * [Project Directory Structure](WDLReference#Directory_Structure.md)
+    * [Modeling](WDLReference#Model.md)
+    * [Installing Eclipse WDL Editor](WDLReference#Installing_Eclipse_WDL_Editor_(Optional).md)
